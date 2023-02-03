@@ -1,0 +1,8 @@
+{
+  "name": "Enchere_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "286a2267"
+}
